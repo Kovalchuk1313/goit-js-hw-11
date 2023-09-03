@@ -7,7 +7,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ffff6d;
+  background-color: #378476;
   color: #212121;
   line-height: 1.5;
 
@@ -35,7 +35,7 @@ p {
   height: 45px;
   margin-bottom: 10px;
 
-  background-color: rgb(73, 87, 247);
+  background-color: rgb(58, 63, 63);
 }
 
 .input-text {
@@ -57,7 +57,7 @@ p {
 
 .button:hover,
 .button:focus {
-  background-color: #ffff6d;
+  background-color: #378476;
 }
 
 .load-more {
@@ -127,7 +127,7 @@ p {
 
   padding: 10px;
 
-  color: #ffff6d;
+  color: white;
   background-color: rgb(73, 87, 247);
 }
 
